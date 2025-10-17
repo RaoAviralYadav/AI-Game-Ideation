@@ -10,23 +10,23 @@ An intelligent AI-powered system that automatically generates innovative mobile 
 
 🎮 Generated Game Ideas with Professional Screenshots
 
-- Gecko Jam- App preview 
+## Gecko Jam- App preview 
 ![Default](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Jam%20-2.gif)
 - Gecko Jam - Image
 ![Default](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Jam%20image.png)
-- Out Crowd - Image
+## Out Crowd - Image
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Out%20Crowd%20image.png)
 - Out Crowd - Description
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Out%20Crowd.png)
-- Gecko Match - Image
+## Gecko Match - Image
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Match.png)
 - Gecko Match - Description
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Match%20image.png)
-- Knit Jam - Image
+## Knit Jam - Image
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/knit%20jam%20image.png)
 - Knit Jam - Description
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Knit%20Jam%20.png)
-- Gecko Rush - Image
+## Gecko Rush - Image
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Rush%20image.png)
 - Gecko Rush - Description
 ![](https://github.com/RaoAviralYadav/AI-Game-Ideation/blob/9ec8f141b210a07c772a675e9c9a05e76fb50566/screenshots/Gecko%20Rush%20image-%202.png)
