@@ -2,8 +2,6 @@
 
 An intelligent AI-powered system that automatically generates innovative mobile game concepts by merging mechanics from existing puzzle games. Built with React, TypeScript, Node.js, and Hugging Face AI models, this application creates unique game ideas complete with professional-quality screenshots.
 
-➡️ View Live Demo: (Add your deployment URL here)
-
 ---
 
 ## Showcase
@@ -477,7 +475,7 @@ Error Response:
 
 ---
 
-If you'd like, I can:
+If you'd like (to recruiters/open source devs), I can:
 
 - Add stricter server-side Zod validation for outgoing responses
 - Add logging-to-file for malformed HF responses
