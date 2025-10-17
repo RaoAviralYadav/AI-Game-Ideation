@@ -484,3 +484,5 @@ If you'd like, I can:
 - Validate and suggest working HF model slugs for text/image generation
 
 Thank you for using AI Game Ideation Agent — happy prototyping!
+
+Credits: Aviral Yadav
